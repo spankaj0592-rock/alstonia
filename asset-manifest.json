@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alstonia/static/css/main.073c9b0a.css",
+    "main.js": "/alstonia/static/js/main.e2b4fd5d.js",
+    "index.html": "/alstonia/index.html",
+    "main.073c9b0a.css.map": "/alstonia/static/css/main.073c9b0a.css.map",
+    "main.e2b4fd5d.js.map": "/alstonia/static/js/main.e2b4fd5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2b4fd5d.js"
+  ]
+}
